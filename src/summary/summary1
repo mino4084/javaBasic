@@ -1,0 +1,30 @@
+자바는 객체 지향 언어 
+- OOP(Object Oriented Programming)
+
+함수적 스타일 코딩 지원
+- 람다식(Lambda Expressions)
+ 
+메모리 자동관리
+- 사용하지 않는 객체레를 자동으로 메모리에서 제거
+- 메모리 관리보다 기능 구현에 더 집중
+ 
+Java SE(Standard Edition)
+- JVM
+- JDK
+- 자바프로그램 개발도구 및 API 정의
+ 
+Java EE(Enterprise Edition)
+- 웹 애플리케이션 개발도구 및 API 정의
+- WAS
+
+Java ME(Micro Edition)
+- 임베디드
+
+멀티 스레드
+- 동시 여러가지, 대용량 작업(병렬 처리) -> 멀티 스레드 필요
+- 운영체제 별로 멀티 스레드 api가 다르지만 Java는 일관된 생성과 관리 가능
+
+동적 로딩 지원
+- 미리 생성하지 않고 필요한 시점에 동적 로딩 및 객채 생성
+
+오픈소스 라이브러리가 많다
