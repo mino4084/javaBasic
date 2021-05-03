@@ -28,3 +28,10 @@ Java ME(Micro Edition)
 - 미리 생성하지 않고 필요한 시점에 동적 로딩 및 객채 생성
 
 오픈소스 라이브러리가 많다
+
+Java SE
+- JDK(Java Development Kit) = JRE(Java Runtime Enviorment, JVM + 표준클래스 라이브러리) + 개발도구
+- 환경변수 설정으로 JDK 위치 알려주기 위해서
+
+.java 소스파일(Hello.java) -(javac.exe 컴파일러)-> .class 바이트 코드 파일(Hello.class) -(java.exe JVM)-> 기계어
+- class 파일로 컴파일한 경우 어느 운영체제든 동일하게 사용 가능해진다.
